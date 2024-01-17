@@ -1,0 +1,21 @@
+[debug] [2024-01-17T13:03:55.473Z] ----------------------------------------------------------------------
+[debug] [2024-01-17T13:03:55.476Z] Command:       D:\software installed\node.exe C:\Users\antsh\OneDrive\Desktop\firebase\You-and-Us\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-01-17T13:03:55.477Z] CLI Version:   13.0.3
+[debug] [2024-01-17T13:03:55.478Z] Platform:      win32
+[debug] [2024-01-17T13:03:55.478Z] Node Version:  v18.15.0
+[debug] [2024-01-17T13:03:55.479Z] Time:          Wed Jan 17 2024 18:33:55 GMT+0530 (India Standard Time)
+[debug] [2024-01-17T13:03:55.480Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-01-17T13:03:55.489Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-01-17T13:03:55.490Z] > authorizing via signed-in user (antsharma02@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\antsh\OneDrive\Desktop\firebase\You-and-Us
+
